@@ -1,0 +1,43 @@
+
+use id: cnguyen200
+Cng2019Cng2019!
+
+download GitHub
+https://git-scm.com/download/win
+
+
+https://github.com/cnguyen200/GitHubRepos
+
+
+git init
+git version
+
+touch   new file
+git add .filename
+git status
+git checkout feature
+git checkout branch
+git commit -m "text..."
+git checkout
+git checkout master
+
+git branch
+git branch feature
+git push origin master
+git push
+
+
+git remote -v
+git remote
+git remote add origin https://github.com/cnguyen200/GitHubRepos
+git config --global user.email "clayton.nguyen@uspto.gov"
+git config --global user.name "cnguyen200"
+
+git merge feature
+
+Edit file
+vim newfile.txt
+Esc :x enter key
+
+http://localhost:8080/
+
